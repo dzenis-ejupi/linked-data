@@ -1,0 +1,2133 @@
+@prefix tuvienna: <http://ifs.tuwien.ac.at/tulid/group03/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix staff: <http://webprotege.stanford.edu/tuvienna/R8fc8aX1sbBOMbOqH3NEO8a> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix teach: <http://linkedscience.org/teach/ns#> .
+
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Fuchs_Robert> a tuvienna:Staff ;
+	foaf:name "Fuchs Robert" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/93425" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Hillebrand_Florin> a tuvienna:Staff ;
+	foaf:name "Hillebrand Florin" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/178877" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Igitrans_Digitrans> a tuvienna:Staff ;
+	foaf:name "Igitrans Digitrans" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/307582" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Willmann_Roland> a tuvienna:Staff ;
+	foaf:name "Willmann Roland" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/130561" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Randak_Andrea> a tuvienna:Staff ;
+	foaf:name "Randak Andrea" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/46278" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Kafka_Philipp> a tuvienna:Staff ;
+	foaf:name "Kafka Philipp" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/230204" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/De_Maio_Vincenzo> a tuvienna:Staff ;
+	foaf:name "De Maio Vincenzo" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/306017" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Panchenko_Yana> a tuvienna:Staff ;
+	foaf:name "Panchenko Yana" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/281652" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Fromm_Johannes> a tuvienna:Staff ;
+	foaf:name "Fromm Johannes" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/90409" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Rinker_Felix_Paul> a tuvienna:Staff ;
+	foaf:name "Rinker Felix Paul" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/61192" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Weippl_Edgar> a tuvienna:Staff ;
+	foaf:name "Weippl Edgar" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/54162" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Stockinger_Johann> a tuvienna:Staff ;
+	foaf:name "Stockinger Johann" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/158133" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Mirzaei_Mohammadreza> a tuvienna:Staff ;
+	foaf:name "Mirzaei Mohammadreza" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/306356" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Bartnik_Christian> a tuvienna:Staff ;
+	foaf:name "Bartnik Christian" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/264164" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Mukamakuza_Carine_Pierrette> a tuvienna:Staff ;
+	foaf:name "Mukamakuza Carine Pierrette" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/295058" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/PrÃ¶ll_Stefan> a tuvienna:Staff ;
+	foaf:name "PrÃ¶ll Stefan" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/69440" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Kulmukhametov_Artur> a tuvienna:Staff ;
+	foaf:name "Kulmukhametov Artur" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/235651" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Krombholz-Reindl_Katharina> a tuvienna:Staff ;
+	foaf:name "Krombholz-Reindl Katharina" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/54151" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Kaufmann_Hannes> a tuvienna:Staff ;
+	foaf:name "Kaufmann Hannes" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/46406" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Krathu_Worarat> a tuvienna:Staff ;
+	foaf:name "Krathu Worarat" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/185772" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Toktas_Mustafa> a tuvienna:Staff ;
+	foaf:name "Toktas Mustafa" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/51483" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Karim_Muhammad_Shuaib> a tuvienna:Staff ;
+	foaf:name "Karim Muhammad Shuaib" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/54709" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Riegler_Stefan> a tuvienna:Staff ;
+	foaf:name "Riegler Stefan" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/288221" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Gabmeyer_Sebastian> a tuvienna:Staff ;
+	foaf:name "Gabmeyer Sebastian" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/39831" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Mayerhofer_Tanja> a tuvienna:Staff ;
+	foaf:name "Mayerhofer Tanja" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/55890" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Musil_JÃ¼rgen> a tuvienna:Staff ;
+	foaf:name "Musil JÃ¼rgen" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/54567" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Zavrel_Stephan> a tuvienna:Staff ;
+	foaf:name "Zavrel Stephan" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/90247" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Moser_Valentin> a tuvienna:Staff ;
+	foaf:name "Moser Valentin" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/184029" .
+	
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Gr%C3%83%C2%BCnbacher_Paul> a tuvienna:Staff ;
+	foaf:name "Grünbacher Paul" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person_via_oid/3344437" .
+	
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Andersson_Linda> a tuvienna:Staff ;
+	foaf:name "Andersson Linda" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/180716" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Diem_Lukas> a tuvienna:Staff ;
+	foaf:name "Diem Lukas" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/52647" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Kleine_Kristoffer> a tuvienna:Staff ;
+	foaf:name "Kleine Kristoffer" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/253852" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/FÃ¼vesi_Daniel> a tuvienna:Staff ;
+	foaf:name "FÃ¼vesi Daniel" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/274851" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Piroi_Florina_Mihaela> a tuvienna:Staff ;
+	foaf:name "Piroi Florina Mihaela" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/239780" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Amor-Amoros_Albert> a tuvienna:Staff ;
+	foaf:name "Amor-Amoros Albert" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/272071" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Scholz_Marion> a tuvienna:Staff ;
+	foaf:name "Scholz Marion" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/44006" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Kappel_Gertrude> a tuvienna:Staff ;
+	foaf:name "Kappel Gertrude" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/147972" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Molnar_David_Bese> a tuvienna:Staff ;
+	foaf:name "Molnar David Bese" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/275253" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Rippberger_Gwendolyn> a tuvienna:Staff ;
+	foaf:name "Rippberger Gwendolyn" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/284093" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Pacha_Alexander> a tuvienna:Staff ;
+	foaf:name "Pacha Alexander" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/68727" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Arends_Max> a tuvienna:Staff ;
+	foaf:name "Arends Max" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/53076" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Schuhmacher_Barbara> a tuvienna:Staff ;
+	foaf:name "Schuhmacher Barbara" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/50164" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Knees_Peter> a tuvienna:Staff ;
+	foaf:name "Knees Peter" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/47426" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Schwarzinger_Fabian> a tuvienna:Staff ;
+	foaf:name "Schwarzinger Fabian" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/252704" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Froschauer_Josef> a tuvienna:Staff ;
+	foaf:name "Froschauer Josef" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/46311" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Hahn_Gabriele> a tuvienna:Staff ;
+	foaf:name "Hahn Gabriele" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/300253" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Bors_Christian> a tuvienna:Staff ;
+	foaf:name "Bors Christian" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/56607" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Ceneda_Davide> a tuvienna:Staff ;
+	foaf:name "Ceneda Davide" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/289877" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Bernhart_Mario> a tuvienna:Staff ;
+	foaf:name "Bernhart Mario" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/51977" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/RÃ¶thlin_Jonas> a tuvienna:Staff ;
+	foaf:name "RÃ¶thlin Jonas" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/246928" .
+	
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Dornürgen> a tuvienna:Staff ;
+	foaf:name "Dorn Jürgen" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person_via_oid/44341" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Novak_Petr> a tuvienna:Staff ;
+	foaf:name "Novak Petr" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/204182" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Neidhardt_Julia> a tuvienna:Staff ;
+	foaf:name "Neidhardt Julia" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/88078" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Huber_Markus> a tuvienna:Staff ;
+	foaf:name "Huber Markus" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/64013" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Mordinyi_Richard> a tuvienna:Staff ;
+	foaf:name "Mordinyi Richard" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/52127" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Metallidis_Sokratis> a tuvienna:Staff ;
+	foaf:name "Metallidis Sokratis" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/287473" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Kratzwald_Bernhard> a tuvienna:Staff ;
+	foaf:name "Kratzwald Bernhard" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/245662" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Schrittwieser_Sebastian> a tuvienna:Staff ;
+	foaf:name "Schrittwieser Sebastian" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/43441" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Friedrich_Heiko> a tuvienna:Staff ;
+	foaf:name "Friedrich Heiko" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/281651" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Wogowitsch_Stephanie> a tuvienna:Staff ;
+	foaf:name "Wogowitsch Stephanie" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/197540" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Serral_Asensio_Estefania> a tuvienna:Staff ;
+	foaf:name "Serral Asensio Estefania" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/252710" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Wetzinger_Elisabeth_Reingard> a tuvienna:Staff ;
+	foaf:name "Wetzinger Elisabeth Reingard" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/37101" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Lidy_Thomas> a tuvienna:Staff ;
+	foaf:name "Lidy Thomas" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/50919" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Paskaleva_Galina> a tuvienna:Staff ;
+	foaf:name "Paskaleva Galina" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/50450" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Hochmeister_Martin> a tuvienna:Staff ;
+	foaf:name "Hochmeister Martin" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/58341" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Naz_Erum> a tuvienna:Staff ;
+	foaf:name "Naz Erum" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/272170" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Eidenberger_Horst> a tuvienna:Staff ;
+	foaf:name "Eidenberger Horst" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/97117" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Sageder_Gerhard> a tuvienna:Staff ;
+	foaf:name "Sageder Gerhard" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/64498" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Pieber_Andreas> a tuvienna:Staff ;
+	foaf:name "Pieber Andreas" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/58653" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Aral_Atakan> a tuvienna:Staff ;
+	foaf:name "Aral Atakan" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/304491" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Djurdjevic_Radomir> a tuvienna:Staff ;
+	foaf:name "Djurdjevic Radomir" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/270683" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Judmayer_Aljosha> a tuvienna:Staff ;
+	foaf:name "Judmayer Aljosha" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/62704" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Bousse_Erwan_Gwendal> a tuvienna:Staff ;
+	foaf:name "Bousse Erwan Gwendal" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/299517" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Rabiee_Maryam> a tuvienna:Staff ;
+	foaf:name "Rabiee Maryam" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/299748" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Watzinger_Tobias> a tuvienna:Staff ;
+	foaf:name "Watzinger Tobias" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/273950" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Ivanschitz_Bernd-Peter> a tuvienna:Staff ;
+	foaf:name "Ivanschitz Bernd-Peter" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/69041" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Futschek_Gerald> a tuvienna:Staff ;
+	foaf:name "Futschek Gerald" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/154644" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Bampoulidis_Alexandros> a tuvienna:Staff ;
+	foaf:name "Bampoulidis Alexandros" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/280732" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Reiter_Beatrice> a tuvienna:Staff ;
+	foaf:name "Reiter Beatrice" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/252522" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Kargl_Horst> a tuvienna:Staff ;
+	foaf:name "Kargl Horst" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/51193" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Weixelbaum_Wilma> a tuvienna:Staff ;
+	foaf:name "Weixelbaum Wilma" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/292398" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Mitrovic_Dalibor> a tuvienna:Staff ;
+	foaf:name "Mitrovic Dalibor" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/53451" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Schrack_Maximilian> a tuvienna:Staff ;
+	foaf:name "Schrack Maximilian" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/252536" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Wally_Bernhard> a tuvienna:Staff ;
+	foaf:name "Wally Bernhard" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/82129" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/SchÃ¶rkhuber_Dominik> a tuvienna:Staff ;
+	foaf:name "SchÃ¶rkhuber Dominik" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/230875" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Do_Ba_Lam> a tuvienna:Staff ;
+	foaf:name "Do Ba Lam" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/272389" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Eckermann_Bela> a tuvienna:Staff ;
+	foaf:name "Eckermann Bela" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/298940" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Almer_Felix> a tuvienna:Staff ;
+	foaf:name "Almer Felix" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/252433" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Hackl_Elisabeth> a tuvienna:Staff ;
+	foaf:name "Hackl Elisabeth" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/291839" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Vales_Jan> a tuvienna:Staff ;
+	foaf:name "Vales Jan" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/60954" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/ThÃ¶ni_Andreas> a tuvienna:Staff ;
+	foaf:name "ThÃ¶ni Andreas" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/54551" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Tjoa_A_Min> a tuvienna:Staff ;
+	foaf:name "Tjoa A Min" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/39902" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Trauner_Martina> a tuvienna:Staff ;
+	foaf:name "Trauner Martina" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/307025" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Asfand-e-yar_Muhammad> a tuvienna:Staff ;
+	foaf:name "Asfand-e-yar Muhammad" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/38719" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/SchrÃ¶dl_Hans-JÃ¶rg> a tuvienna:Staff ;
+	foaf:name "SchrÃ¶dl Hans-JÃ¶rg" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/176553" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Kaufmann_Petra> a tuvienna:Staff ;
+	foaf:name "Kaufmann Petra" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/46347" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Busch_Christina_Maria> a tuvienna:Staff ;
+	foaf:name "Busch Christina Maria" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/281653" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Klemen_Markus> a tuvienna:Staff ;
+	foaf:name "Klemen Markus" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/50383" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Lujic_Ivan> a tuvienna:Staff ;
+	foaf:name "Lujic Ivan" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/298062" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/SchÃ¶rghuber_Alexander> a tuvienna:Staff ;
+	foaf:name "SchÃ¶rghuber Alexander" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/253442" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Werthner_Hannes> a tuvienna:Staff ;
+	foaf:name "Werthner Hannes" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/54398" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Tahamtan_Amirreza> a tuvienna:Staff ;
+	foaf:name "Tahamtan Amirreza" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/178420" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Mazak_Alexandra> a tuvienna:Staff ;
+	foaf:name "Mazak Alexandra" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/44139" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Ceric_Mirza> a tuvienna:Staff ;
+	foaf:name "Ceric Mirza" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/50321" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Langer_Philip> a tuvienna:Staff ;
+	foaf:name "Langer Philip" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/43335" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Schindler_Alexander> a tuvienna:Staff ;
+	foaf:name "Schindler Alexander" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/53560" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Csefalvay_Anna> a tuvienna:Staff ;
+	foaf:name "Csefalvay Anna" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/302248" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Vonach_Emanuel> a tuvienna:Staff ;
+	foaf:name "Vonach Emanuel" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/40682" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Vogl_Richard> a tuvienna:Staff ;
+	foaf:name "Vogl Richard" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/306611" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Federico_Paolo> a tuvienna:Staff ;
+	foaf:name "Federico Paolo" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/190482" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/SchÃ¶nauer_Christian> a tuvienna:Staff ;
+	foaf:name "SchÃ¶nauer Christian" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/54835" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Novak_Niina_Maarit> a tuvienna:Staff ;
+	foaf:name "Novak Niina Maarit" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/277526" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Zaharieva_Maia> a tuvienna:Staff ;
+	foaf:name "Zaharieva Maia" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/39017" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Grossmann_Nicolas> a tuvienna:Staff ;
+	foaf:name "Grossmann Nicolas" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/273011" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Tran_Thi_Kim_Thanh> a tuvienna:Staff ;
+	foaf:name "Tran Thi Kim Thanh" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/56632" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/FrÃ¶schl_Karl> a tuvienna:Staff ;
+	foaf:name "FrÃ¶schl Karl" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/48986" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Patsuk-BÃ¶sch_Polina> a tuvienna:Staff ;
+	foaf:name "Patsuk-BÃ¶sch Polina" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/305409" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Salampasis_Michail> a tuvienna:Staff ;
+	foaf:name "Salampasis Michail" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/243899" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Poul_Yvonne> a tuvienna:Staff ;
+	foaf:name "Poul Yvonne" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/273209" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Krenn_Philipp> a tuvienna:Staff ;
+	foaf:name "Krenn Philipp" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/42087" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Egger_Elke> a tuvienna:Staff ;
+	foaf:name "Egger Elke" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/248598" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Dar_Ehtesham-Ul-Haq> a tuvienna:Staff ;
+	foaf:name "Dar Ehtesham-Ul-Haq" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/63344" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Bauer_Gottfried> a tuvienna:Staff ;
+	foaf:name "Bauer Gottfried" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/269484" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Schadler_Michael> a tuvienna:Staff ;
+	foaf:name "Schadler Michael" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/40486" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Dolgorukova_Olga> a tuvienna:Staff ;
+	foaf:name "Dolgorukova Olga" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/247026" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Ramler_Rudolf> a tuvienna:Staff ;
+	foaf:name "Ramler Rudolf" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/39063" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Korath_Christoph> a tuvienna:Staff ;
+	foaf:name "Korath Christoph" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/283477" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Webhofer_Matthias> a tuvienna:Staff ;
+	foaf:name "Webhofer Matthias" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/263349" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Kiesling_Elmar> a tuvienna:Staff ;
+	foaf:name "Kiesling Elmar" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/40178" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Sabetghadam_Serwah> a tuvienna:Staff ;
+	foaf:name "Sabetghadam Serwah" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/269063" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Krajiczek_Martin_Peter> a tuvienna:Staff ;
+	foaf:name "Krajiczek Martin Peter" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/53147" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Mossel_Annette> a tuvienna:Staff ;
+	foaf:name "Mossel Annette" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/58429" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Steyskal_Simon> a tuvienna:Staff ;
+	foaf:name "Steyskal Simon" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/68163" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Thorstensen_Nicolas> a tuvienna:Staff ;
+	foaf:name "Thorstensen Nicolas" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/83149" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Murzek_Marion> a tuvienna:Staff ;
+	foaf:name "Murzek Marion" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/100963" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Dippelreiter_Birgit> a tuvienna:Staff ;
+	foaf:name "Dippelreiter Birgit" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/48968" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Bleyer_Michael> a tuvienna:Staff ;
+	foaf:name "Bleyer Michael" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/48412" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Kinuthia_Caroline> a tuvienna:Staff ;
+	foaf:name "Kinuthia Caroline" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/247729" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Akhavan_Tara> a tuvienna:Staff ;
+	foaf:name "Akhavan Tara" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/247963" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Lipani_Aldo> a tuvienna:Staff ;
+	foaf:name "Lipani Aldo" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/250419" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Standl-Gruber_Bernhard> a tuvienna:Staff ;
+	foaf:name "Standl-Gruber Bernhard" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/302097" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Human_Soheil> a tuvienna:Staff ;
+	foaf:name "Human Soheil" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/64181" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Rauber_Andreas> a tuvienna:Staff ;
+	foaf:name "Rauber Andreas" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/39608" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Kovalenko_Olga> a tuvienna:Staff ;
+	foaf:name "Kovalenko Olga" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/235174" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Goldfarb_Doron> a tuvienna:Staff ;
+	foaf:name "Goldfarb Doron" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/51519" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Sacharidis_Dimitrios> a tuvienna:Staff ;
+	foaf:name "Sacharidis Dimitrios" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/288164" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Schweikert_Maria> a tuvienna:Staff ;
+	foaf:name "Schweikert Maria" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/41974" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Ims_Test> a tuvienna:Staff ;
+	foaf:name "Ims Test" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/296230" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Salamon_Gudrun> a tuvienna:Staff ;
+	foaf:name "Salamon Gudrun" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/45282" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Stephanitsch_Michael> a tuvienna:Staff ;
+	foaf:name "Stephanitsch Michael" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/51776" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Preda_Andrei> a tuvienna:Staff ;
+	foaf:name "Preda Andrei" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/39438" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Calatrava_Moreno_Maria_del_Carmen> a tuvienna:Staff ;
+	foaf:name "Calatrava Moreno Maria del Carmen" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/246561" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Auer_Martin> a tuvienna:Staff ;
+	foaf:name "Auer Martin" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/39526" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Fenz_Stefan> a tuvienna:Staff ;
+	foaf:name "Fenz Stefan" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/41069" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Piller_Ernst> a tuvienna:Staff ;
+	foaf:name "Piller Ernst" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/160270" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Troya_Javier> a tuvienna:Staff ;
+	foaf:name "Troya Javier" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/277372" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Heiss_Michael> a tuvienna:Staff ;
+	foaf:name "Heiss Michael" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/211126" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Schmiedecker_Martin> a tuvienna:Staff ;
+	foaf:name "Schmiedecker Martin" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/40959" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Detter_Katrin> a tuvienna:Staff ;
+	foaf:name "Detter Katrin" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/299615" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Dabrowski_Adrian_Marek> a tuvienna:Staff ;
+	foaf:name "Dabrowski Adrian Marek" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/47861" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Schmid_Claudia> a tuvienna:Staff ;
+	foaf:name "Schmid Claudia" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/203833" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Biffl_Stefan> a tuvienna:Staff ;
+	foaf:name "Biffl Stefan" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/124531" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Mastelic_Toni> a tuvienna:Staff ;
+	foaf:name "Mastelic Toni" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/236282" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Trinh_Tuan_Dat> a tuvienna:Staff ;
+	foaf:name "Trinh Tuan Dat" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/272391" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Igwlan_Birgit> a tuvienna:Staff ;
+	foaf:name "Igwlan Birgit" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/307746" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Breiteneder_Christian> a tuvienna:Staff ;
+	foaf:name "Breiteneder Christian" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/159676" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Petritsch_Michael> a tuvienna:Staff ;
+	foaf:name "Petritsch Michael" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/50767" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Delic_Amra> a tuvienna:Staff ;
+	foaf:name "Delic Amra" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/286082" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Strommer_Michael> a tuvienna:Staff ;
+	foaf:name "Strommer Michael" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/46947" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Bergmayr_Alexander> a tuvienna:Staff ;
+	foaf:name "Bergmayr Alexander" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/252293" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Neubauer_Thomas> a tuvienna:Staff ;
+	foaf:name "Neubauer Thomas" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/63355" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Nedjelik_Klara> a tuvienna:Staff ;
+	foaf:name "Nedjelik Klara" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/284875" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Merzdovnik_Georg> a tuvienna:Staff ;
+	foaf:name "Merzdovnik Georg" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/45373" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Lupu_Mihai> a tuvienna:Staff ;
+	foaf:name "Lupu Mihai" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/239778" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Kadam_Serap> a tuvienna:Staff ;
+	foaf:name "Kadam Serap" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/52837" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Latif_Khalid> a tuvienna:Staff ;
+	foaf:name "Latif Khalid" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/53517" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Taha_Abdel_Aziz> a tuvienna:Staff ;
+	foaf:name "Taha Abdel Aziz" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/41158" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Heurix_Johannes> a tuvienna:Staff ;
+	foaf:name "Heurix Johannes" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/48086" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Topf_Mario> a tuvienna:Staff ;
+	foaf:name "Topf Mario" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/46759" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/GrÃ¼nbacher_Paul> a tuvienna:Staff ;
+	foaf:name "GrÃ¼nbacher Paul" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/63349" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Pourani_Pedram> a tuvienna:Staff ;
+	foaf:name "Pourani Pedram" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/272463" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Engel_Robert> a tuvienna:Staff ;
+	foaf:name "Engel Robert" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/45061" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Seidemann_Matthias> a tuvienna:Staff ;
+	foaf:name "Seidemann Matthias" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/68492" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Wieland_Konrad> a tuvienna:Staff ;
+	foaf:name "Wieland Konrad" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/44363" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Seidl_Martina> a tuvienna:Staff ;
+	foaf:name "Seidl Martina" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/51682" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Sindelar_Radek> a tuvienna:Staff ;
+	foaf:name "Sindelar Radek" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/191160" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Floyd_Christiane> a tuvienna:Staff ;
+	foaf:name "Floyd Christiane" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/186791" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Grad-Gyenge_Laszlo> a tuvienna:Staff ;
+	foaf:name "Grad-Gyenge Laszlo" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/263899" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Hoang_Huu_Hanh> a tuvienna:Staff ;
+	foaf:name "Hoang Huu Hanh" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/48326" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Mayer_Rudolf> a tuvienna:Staff ;
+	foaf:name "Mayer Rudolf" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/37605" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Novakovic_Danijel> a tuvienna:Staff ;
+	foaf:name "Novakovic Danijel" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/232453" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Fischer_Gabriele> a tuvienna:Staff ;
+	foaf:name "Fischer Gabriele" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/48909" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Baigaltugs_Sanjaa> a tuvienna:Staff ;
+	foaf:name "Baigaltugs Sanjaa" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/234738" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Vogiatzis_Artemios> a tuvienna:Staff ;
+	foaf:name "Vogiatzis Artemios" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/290856" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/PÃ¶lsler_Julian_Roman> a tuvienna:Staff ;
+	foaf:name "PÃ¶lsler Julian Roman" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/46148" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Umlauft_Martina> a tuvienna:Staff ;
+	foaf:name "Umlauft Martina" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/50502" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Gerstweiler_Georg> a tuvienna:Staff ;
+	foaf:name "Gerstweiler Georg" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/40923" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Dorn_JÃ¼rgen> a tuvienna:Staff ;
+	foaf:name "Dorn JÃ¼rgen" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/36920" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Kronfuss_Stefan> a tuvienna:Staff ;
+	foaf:name "Kronfuss Stefan" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/48523" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Moser_Thomas> a tuvienna:Staff ;
+	foaf:name "Moser Thomas" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/46093" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Konlechner_Rafael> a tuvienna:Staff ;
+	foaf:name "Konlechner Rafael" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/241708" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Fleck_Martin> a tuvienna:Staff ;
+	foaf:name "Fleck Martin" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/264248" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Hildebrandt_Katja> a tuvienna:Staff ;
+	foaf:name "Hildebrandt Katja" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/191324" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Koller_Evelyn> a tuvienna:Staff ;
+	foaf:name "Koller Evelyn" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/51102" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Marcos_Mar> a tuvienna:Staff ;
+	foaf:name "Marcos Mar" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/234295" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Neuner_Sebastian> a tuvienna:Staff ;
+	foaf:name "Neuner Sebastian" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/255217" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Brosch_Nicole> a tuvienna:Staff ;
+	foaf:name "Brosch Nicole" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/42926" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Miksch_Silvia> a tuvienna:Staff ;
+	foaf:name "Miksch Silvia" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/134749" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Hofreiter_Birgit> a tuvienna:Staff ;
+	foaf:name "Hofreiter Birgit" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/110737" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Radanitsch_Jan> a tuvienna:Staff ;
+	foaf:name "Radanitsch Jan" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/290613" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Brandic_Ivona> a tuvienna:Staff ;
+	foaf:name "Brandic Ivona" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/51423" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/FrÃ¼hwirt_Peter> a tuvienna:Staff ;
+	foaf:name "FrÃ¼hwirt Peter" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/60080" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Aigner_Wolfgang> a tuvienna:Staff ;
+	foaf:name "Aigner Wolfgang" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/63348" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Ekaputra_Fajar_Juang> a tuvienna:Staff ;
+	foaf:name "Ekaputra Fajar Juang" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/269298" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Blank-Landeshammer_Brigitte> a tuvienna:Staff ;
+	foaf:name "Blank-Landeshammer Brigitte" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/46552" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Nguyen_Manh_Tho> a tuvienna:Staff ;
+	foaf:name "Nguyen Manh Tho" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/40458" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Bill_Robert> a tuvienna:Staff ;
+	foaf:name "Bill Robert" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/59677" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Wang_Xi> a tuvienna:Staff ;
+	foaf:name "Wang Xi" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/253667" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Katzenbeisser_Stefan> a tuvienna:Staff ;
+	foaf:name "Katzenbeisser Stefan" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/89272" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Karagiannis_Dimitris> a tuvienna:Staff ;
+	foaf:name "Karagiannis Dimitris" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/195286" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Podkosova_Iana> a tuvienna:Staff ;
+	foaf:name "Podkosova Iana" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/247245" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Aryan_Peb_Ruswono> a tuvienna:Staff ;
+	foaf:name "Aryan Peb Ruswono" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/271438" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Uninet_Asea> a tuvienna:Staff ;
+	foaf:name "Uninet Asea" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/289859" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Sack_Christian> a tuvienna:Staff ;
+	foaf:name "Sack Christian" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/291944" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Musil_Angelika> a tuvienna:Staff ;
+	foaf:name "Musil Angelika" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/43721" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Resseguier_Alexander> a tuvienna:Staff ;
+	foaf:name "Resseguier Alexander" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/163046" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Paryudi_Iman> a tuvienna:Staff ;
+	foaf:name "Paryudi Iman" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/247618" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Cevzar_Misel> a tuvienna:Staff ;
+	foaf:name "Cevzar Misel" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/281655" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Duretec_Kresimir> a tuvienna:Staff ;
+	foaf:name "Duretec Kresimir" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/231503" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Zachs_Natascha> a tuvienna:Staff ;
+	foaf:name "Zachs Natascha" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/40450" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Almeida_Leite_Roger> a tuvienna:Staff ;
+	foaf:name "Almeida Leite Roger" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/290000" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Huemer_Christian> a tuvienna:Staff ;
+	foaf:name "Huemer Christian" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/118510" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Sabou_Reka_Marta> a tuvienna:Staff ;
+	foaf:name "Sabou Reka Marta" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/280972" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Schauer_Helmut> a tuvienna:Staff ;
+	foaf:name "Schauer Helmut" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/168779" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/RÃ¼mmele_Nataliia> a tuvienna:Staff ;
+	foaf:name "RÃ¼mmele Nataliia" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/232370" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Kleedorfer_Florian> a tuvienna:Staff ;
+	foaf:name "Kleedorfer Florian" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/51999" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Wahyudin_Dindin_Sjahril_Fadjar> a tuvienna:Staff ;
+	foaf:name "Wahyudin Dindin Sjahril Fadjar" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/53831" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Simos_Dimitrios> a tuvienna:Staff ;
+	foaf:name "Simos Dimitrios" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/279186" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Hofbauer_Brigitte> a tuvienna:Staff ;
+	foaf:name "Hofbauer Brigitte" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/307298" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Madlberger_Lisa> a tuvienna:Staff ;
+	foaf:name "Madlberger Lisa" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/263317" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Stallinger_Friedrich> a tuvienna:Staff ;
+	foaf:name "Stallinger Friedrich" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/273454" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Perera_Malinda_Prasanjith> a tuvienna:Staff ;
+	foaf:name "Perera Malinda Prasanjith" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/284551" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Proyer_Clemens> a tuvienna:Staff ;
+	foaf:name "Proyer Clemens" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/203152" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Strodl_Stephan> a tuvienna:Staff ;
+	foaf:name "Strodl Stephan" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/42528" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Kirner_Corinna> a tuvienna:Staff ;
+	foaf:name "Kirner Corinna" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/177816" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Gelautz_Margrit> a tuvienna:Staff ;
+	foaf:name "Gelautz Margrit" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/38392" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Stranner_Heimo> a tuvienna:Staff ;
+	foaf:name "Stranner Heimo" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/274175" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Mikosch_Hans> a tuvienna:Staff ;
+	foaf:name "Mikosch Hans" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/165153" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Merkl_Wolfdieter> a tuvienna:Staff ;
+	foaf:name "Merkl Wolfdieter" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/134415" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Lanzenberger_Monika> a tuvienna:Staff ;
+	foaf:name "Lanzenberger Monika" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/49286" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Mijatov_Stefan> a tuvienna:Staff ;
+	foaf:name "Mijatov Stefan" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/246737" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Huymajer_Marco> a tuvienna:Staff ;
+	foaf:name "Huymajer Marco" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/43125" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Prasch_Patric> a tuvienna:Staff ;
+	foaf:name "Prasch Patric" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/210005" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Zlabinger_Markus> a tuvienna:Staff ;
+	foaf:name "Zlabinger Markus" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/68589" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Wolny_Sabine> a tuvienna:Staff ;
+	foaf:name "Wolny Sabine" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/59212" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Kan_Peter> a tuvienna:Staff ;
+	foaf:name "Kan Peter" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/231177" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Widl_Magdalena> a tuvienna:Staff ;
+	foaf:name "Widl Magdalena" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/53408" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Neubauer_Patrick> a tuvienna:Staff ;
+	foaf:name "Neubauer Patrick" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/233383" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Hoppan_Matej> a tuvienna:Staff ;
+	foaf:name "Hoppan Matej" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/302768" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Lissa_Ingrid> a tuvienna:Staff ;
+	foaf:name "Lissa Ingrid" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/46416" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Bodesinsky_Peter> a tuvienna:Staff ;
+	foaf:name "Bodesinsky Peter" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/54887" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Mortezapoor_Soroosh> a tuvienna:Staff ;
+	foaf:name "Mortezapoor Soroosh" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/252414" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Scoca_Vincenzo> a tuvienna:Staff ;
+	foaf:name "Scoca Vincenzo" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/307299" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Akhtar_Mubashara> a tuvienna:Staff ;
+	foaf:name "Akhtar Mubashara" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/242908" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Timofeev_Mikhail> a tuvienna:Staff ;
+	foaf:name "Timofeev Mikhail" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/64984" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Schmalstieg_Dieter> a tuvienna:Staff ;
+	foaf:name "Schmalstieg Dieter" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/110794" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Rawassizadeh_Reza> a tuvienna:Staff ;
+	foaf:name "Rawassizadeh Reza" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/200884" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/BÃ¶gl_Markus> a tuvienna:Staff ;
+	foaf:name "BÃ¶gl Markus" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/57469" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Lammarsch_Tim> a tuvienna:Staff ;
+	foaf:name "Lammarsch Tim" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/60564" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Hanbury_Allan> a tuvienna:Staff ;
+	foaf:name "Hanbury Allan" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/48222" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Liegl_Philipp> a tuvienna:Staff ;
+	foaf:name "Liegl Philipp" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/48267" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Wimmer_Manuel> a tuvienna:Staff ;
+	foaf:name "Wimmer Manuel" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/47055" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Anjomshoaa_Amin> a tuvienna:Staff ;
+	foaf:name "Anjomshoaa Amin" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/36874" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Zeppelzauer_Matthias> a tuvienna:Staff ;
+	foaf:name "Zeppelzauer Matthias" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/53598" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Gschwandtner_Theresia> a tuvienna:Staff ;
+	foaf:name "Gschwandtner Theresia" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/53477" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Kapeller_Christian> a tuvienna:Staff ;
+	foaf:name "Kapeller Christian" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/40314" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Sunindyo_Wikan_Danar> a tuvienna:Staff ;
+	foaf:name "Sunindyo Wikan Danar" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/67537" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Trixl_Horst> a tuvienna:Staff ;
+	foaf:name "Trixl Horst" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/120876" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Schuster_Rainer> a tuvienna:Staff ;
+	foaf:name "Schuster Rainer" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/47885" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Buchberger_Bruno> a tuvienna:Staff ;
+	foaf:name "Buchberger Bruno" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/251898" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/GrÃ¼n_Christoph> a tuvienna:Staff ;
+	foaf:name "GrÃ¼n Christoph" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/46123" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Vasylevska_Khrystyna> a tuvienna:Staff ;
+	foaf:name "Vasylevska Khrystyna" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/232367" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Miksa_Tomasz> a tuvienna:Staff ;
+	foaf:name "Miksa Tomasz" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/297350" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Laudisi_Karyn> a tuvienna:Staff ;
+	foaf:name "Laudisi Karyn" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/44691" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Rekabsaz_Navid> a tuvienna:Staff ;
+	foaf:name "Rekabsaz Navid" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/249161" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Hader_Thomas> a tuvienna:Staff ;
+	foaf:name "Hader Thomas" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/285070" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Winkler_Dietmar> a tuvienna:Staff ;
+	foaf:name "Winkler Dietmar" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/52257" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/Lucanin_Drazen> a tuvienna:Staff ;
+	foaf:name "Lucanin Drazen" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/68614" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/staff/MÃ¤tzler_Emanuel> a tuvienna:Staff ;
+	foaf:name "MÃ¤tzler Emanuel" ;
+	foaf:homepage "https://tiss.tuwien.ac.at/adressbuch/adressbuch/person/232915" .
+	
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.936> a tuvienna:Course ;
+	tuvienna:courseType "PR" ;
+	teach:courseTitle "Project in Computer Science 1" ;
+	teach:weeklyHours "4" ;
+	teach:ects "6" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Eidenberger_Horst> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.976> a tuvienna:Course ;
+	tuvienna:courseType "PV" ;
+	teach:courseTitle "Exclusive Tutorial for PhD Students" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Kappel_Gertrude> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.972> a tuvienna:Course ;
+	tuvienna:courseType "SE" ;
+	teach:courseTitle "Seminar on Security" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Weippl_Edgar> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.483> a tuvienna:Course ;
+	tuvienna:courseType "VO" ;
+	teach:courseTitle "Knowledge Management" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Dornürgen> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.935> a tuvienna:Course ;
+	tuvienna:courseType "PR" ;
+	teach:courseTitle "From Design to Software 2" ;
+	teach:weeklyHours "4" ;
+	teach:ects "6" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Breiteneder_Christian> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.423> a tuvienna:Course ;
+	tuvienna:courseType "SE" ;
+	teach:courseTitle "Research Seminar for Ph.D. Students" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Dornürgen> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.92> a tuvienna:Course ;
+	tuvienna:courseType "PR" ;
+	teach:courseTitle "Project in Software Engineering & Internet Computing" ;
+	teach:weeklyHours "6" ;
+	teach:ects "12" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Biffl_Stefan> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.941> a tuvienna:Course ;
+	tuvienna:courseType "SE" ;
+	teach:courseTitle "Seminar on Computer Vision and Pattern Recognition" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Gelautz_Margrit> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.431> a tuvienna:Course ;
+	tuvienna:courseType "SE" ;
+	teach:courseTitle "Seminar für DiplomandInnen" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Dornürgen> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.445> a tuvienna:Course ;
+	tuvienna:courseType "SE" ;
+	teach:courseTitle "Seminar for Master Students" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Kappel_Gertrude> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.231> a tuvienna:Course ;
+	tuvienna:courseType "SE" ;
+	teach:courseTitle "Seminar on Media Informatics" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Gelautz_Margrit> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.981> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Strategy Game Programming" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Eidenberger_Horst> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.429> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Business Intelligence" ;
+	teach:weeklyHours "4" ;
+	teach:ects "6" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Tjoa_A_Min> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.475> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Digital Preservation - Exercises" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Rauber_Andreas> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.956> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Social Media" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Merkl_Wolfdieter> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.369> a tuvienna:Course ;
+	tuvienna:courseType "VO" ;
+	teach:courseTitle "Virtual and Augmented Reality" ;
+	teach:weeklyHours "2" ;
+	teach:ects "2" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Kaufmann_Hannes> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.513> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Stereo Vision" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Gelautz_Margrit> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.979> a tuvienna:Course ;
+	tuvienna:courseType "SE" ;
+	teach:courseTitle "Seminar on Security" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Piller_Ernst> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.94> a tuvienna:Course ;
+	tuvienna:courseType "SE" ;
+	teach:courseTitle "Media Understanding Seminar" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Eidenberger_Horst> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.919> a tuvienna:Course ;
+	tuvienna:courseType "PR" ;
+	teach:courseTitle "Bachelor Thesis" ;
+	teach:weeklyHours "5" ;
+	teach:ects "10" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Biffl_Stefan> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.942> a tuvienna:Course ;
+	tuvienna:courseType "SE" ;
+	teach:courseTitle "Seminar on Image and Video Analysis and Synthesis" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Gelautz_Margrit> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.97> a tuvienna:Course ;
+	tuvienna:courseType "SE" ;
+	teach:courseTitle "Scientific Seminar for PhD Students" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Eidenberger_Horst> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.934> a tuvienna:Course ;
+	tuvienna:courseType "PR" ;
+	teach:courseTitle "From Design to Software 1" ;
+	teach:weeklyHours "4" ;
+	teach:ects "6" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Eidenberger_Horst> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.312> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Organizational Aspects of IT-Security" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Weippl_Edgar> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.944> a tuvienna:Course ;
+	tuvienna:courseType "PR" ;
+	teach:courseTitle "Bachelor Thesis for Informatics and Business Informatics" ;
+	teach:weeklyHours "5" ;
+	teach:ects "10" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Werthner_Hannes> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.411> a tuvienna:Course ;
+	tuvienna:courseType "VO" ;
+	teach:courseTitle "Digital Preservation" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Rauber_Andreas> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.91> a tuvienna:Course ;
+	tuvienna:courseType "PR" ;
+	teach:courseTitle "Advanced Software Engineering" ;
+	teach:weeklyHours "4" ;
+	teach:ects "6" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Biffl_Stefan> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.305> a tuvienna:Course ;
+	tuvienna:courseType "VO" ;
+	teach:courseTitle "Information Visualization" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Gschwandtner_Theresia> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.922> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Digital Forensics" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Weippl_Edgar> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.916> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Introduction to Security" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Weippl_Edgar> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.082> a tuvienna:Course ;
+	tuvienna:courseType "SE" ;
+	teach:courseTitle "Seminar: Literature-work for PhD students" ;
+	teach:weeklyHours "2" ;
+	teach:ects "2" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Rauber_Andreas> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.907> a tuvienna:Course ;
+	tuvienna:courseType "SE" ;
+	teach:courseTitle "Master Thesis Seminar of Informatics Didactics" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Futschek_Gerald> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.46> a tuvienna:Course ;
+	tuvienna:courseType "VO" ;
+	teach:courseTitle "Multimedia Interfaces" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Gerstweiler_Georg> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.909> a tuvienna:Course ;
+	tuvienna:courseType "PR" ;
+	teach:courseTitle "Software Engineering and Projectmanagement" ;
+	teach:weeklyHours "4" ;
+	teach:ects "6" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Biffl_Stefan> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.147> a tuvienna:Course ;
+	tuvienna:courseType "SE" ;
+	teach:courseTitle "Diploma Students Seminar" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Breiteneder_Christian> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.461> a tuvienna:Course ;
+	tuvienna:courseType "LU" ;
+	teach:courseTitle "Multimedia Interfaces" ;
+	teach:weeklyHours "1" ;
+	teach:ects "1.5" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Breiteneder_Christian> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.366> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Internet Security" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Weippl_Edgar> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.982> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Privacy Enhancing Technologies" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Weippl_Edgar> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.959> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Software Security" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Weippl_Edgar> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.512> a tuvienna:Course ;
+	tuvienna:courseType "SE" ;
+	teach:courseTitle "Literature Seminar for PhD Students" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Kappel_Gertrude> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.413> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Self-Organizing Systems" ;
+	teach:weeklyHours "3" ;
+	teach:ects "4.5" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Rauber_Andreas> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.99> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Soft Skills Values as Development and Leadership Tool" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Hahn_Gabriele> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.917> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Information Design and Visualization" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Aigner_Wolfgang> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.446> a tuvienna:Course ;
+	tuvienna:courseType "SE" ;
+	teach:courseTitle "Research Seminar" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Kappel_Gertrude> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.399> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Introduction to Semantic Web" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Tjoa_A_Min> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.947> a tuvienna:Course ;
+	tuvienna:courseType "PR" ;
+	teach:courseTitle "Project in Medical Informatics" ;
+	teach:weeklyHours "4" ;
+	teach:ects "12" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Gschwandtner_Theresia> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.991> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Energy-Efficeint Distributed Systems" ;
+	teach:weeklyHours "2" ;
+	teach:ects "4" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Brandic_Ivona> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.329> a tuvienna:Course ;
+	tuvienna:courseType "VO" ;
+	teach:courseTitle "Video Analysis" ;
+	teach:weeklyHours "1" ;
+	teach:ects "1.5" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Gelautz_Margrit> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.951> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Web Engineering" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Kappel_Gertrude> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.967> a tuvienna:Course ;
+	tuvienna:courseType "SE" ;
+	teach:courseTitle "Seminar for Master Students" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Huemer_Christian> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.949> a tuvienna:Course ;
+	tuvienna:courseType "PR" ;
+	teach:courseTitle "Advanced Research Lab in Applied Computer Science" ;
+	teach:weeklyHours "10" ;
+	teach:ects "15" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Weippl_Edgar> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.947> teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Aigner_Wolfgang> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.952> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Advanced Model Engineering" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Wimmer_Manuel> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.931> a tuvienna:Course ;
+	tuvienna:courseType "VO" ;
+	teach:courseTitle "Multimedia" ;
+	teach:weeklyHours "3" ;
+	teach:ects "4" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Breiteneder_Christian> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.179> a tuvienna:Course ;
+	tuvienna:courseType "SE" ;
+	teach:courseTitle "PhD Seminar" ;
+	teach:weeklyHours "2" ;
+	teach:ects "2" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Breiteneder_Christian> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.427> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "E-Commerce" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Brandic_Ivona> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.933> a tuvienna:Course ;
+	tuvienna:courseType "PR" ;
+	teach:courseTitle "Media Understanding Project" ;
+	teach:weeklyHours "4" ;
+	teach:ects "6" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Eidenberger_Horst> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.486> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Knowledge Management" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Dornürgen> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.985> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Selected Topics in Information Security" ;
+	teach:weeklyHours "3" ;
+	teach:ects "6" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Weippl_Edgar> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.912> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Multimedia" ;
+	teach:weeklyHours "2" ;
+	teach:ects "4" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Breiteneder_Christian> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.915> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Innovation" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Werthner_Hannes> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.501> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Similarity Modeling 1" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Eidenberger_Horst> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.482> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Propädeutikum für Informatik" ;
+	teach:weeklyHours "4" ;
+	teach:ects "6" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Futschek_Gerald> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.913> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Virtual and Augmented Reality" ;
+	teach:weeklyHours "3" ;
+	teach:ects "4" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Podkosova_Iana> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.47> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Multimedia Production 1: Materials & Tools" ;
+	teach:weeklyHours "4" ;
+	teach:ects "6" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Breiteneder_Christian> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.38> a tuvienna:Course ;
+	tuvienna:courseType "PR" ;
+	teach:courseTitle "project lab" ;
+	teach:weeklyHours "3" ;
+	teach:ects "6" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Futschek_Gerald> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.409> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Requirements Engineering and Specification" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Gr%C3%83%C2%BCnbacher_Paul> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.93> a tuvienna:Course ;
+	tuvienna:courseType "PR" ;
+	teach:courseTitle "Project from Software Engineering & Internet Computing" ;
+	teach:weeklyHours "6" ;
+	teach:ects "12" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Dornürgen> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.906> a tuvienna:Course ;
+	tuvienna:courseType "SE" ;
+	teach:courseTitle "Seminar in Visualization" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Aigner_Wolfgang> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.081> a tuvienna:Course ;
+	tuvienna:courseType "SE" ;
+	teach:courseTitle "Research seminar for PhD students" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Rauber_Andreas> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.383> a tuvienna:Course ;
+	tuvienna:courseType "SE" ;
+	teach:courseTitle "Leadership Competency Coaching 1" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Fischer_Gabriele> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.346> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Video Analysis" ;
+	teach:weeklyHours "1" ;
+	teach:ects "1.5" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Gelautz_Margrit> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.459> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Video Production" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Laudisi_Karyn> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.387> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Semi-Automatic Information and Knowledge Systems" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Lanzenberger_Monika> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.504> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Canceled Introduction to Informatics Didactics" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Futschek_Gerald> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.321> a tuvienna:Course ;
+	tuvienna:courseType "SE" ;
+	teach:courseTitle "Seminar in Software Engineering" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Biffl_Stefan> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.943> a tuvienna:Course ;
+	tuvienna:courseType "PR" ;
+	teach:courseTitle "Project in Visual Computing" ;
+	teach:weeklyHours "6" ;
+	teach:ects "9" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Aigner_Wolfgang> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.98> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Advanced Information Retrieval" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Rauber_Andreas> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.937> a tuvienna:Course ;
+	tuvienna:courseType "PR" ;
+	teach:courseTitle "Project in Computer Science 2" ;
+	teach:weeklyHours "4" ;
+	teach:ects "6" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Eidenberger_Horst> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.961> a tuvienna:Course ;
+	tuvienna:courseType "PR" ;
+	teach:courseTitle "From Design to Software 2" ;
+	teach:weeklyHours "4" ;
+	teach:ects "6" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Miksch_Silvia> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.503> a tuvienna:Course ;
+	tuvienna:courseType "SE" ;
+	teach:courseTitle "Seminar on Media Informatics" ;
+	teach:weeklyHours "2" ;
+	teach:ects "2" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Merkl_Wolfdieter> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.28> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Software Testing" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Winkler_Dietmar> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.407> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Management of Software Projects" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Fenz_Stefan> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.498> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Similarity Modeling 2" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Eidenberger_Horst> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.939> a tuvienna:Course ;
+	tuvienna:courseType "PR" ;
+	teach:courseTitle "Computer Science Project" ;
+	teach:weeklyHours "5" ;
+	teach:ects "10" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Eidenberger_Horst> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.926> a tuvienna:Course ;
+	tuvienna:courseType "PR" ;
+	teach:courseTitle "Bachelor Thesis for Informatics and Business Informatics" ;
+	teach:weeklyHours "5" ;
+	teach:ects "10" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Kappel_Gertrude> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.927> a tuvienna:Course ;
+	tuvienna:courseType "PR" ;
+	teach:courseTitle "Project on Software Engineering & Internet Computing" ;
+	teach:weeklyHours "6" ;
+	teach:ects "12" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Kappel_Gertrude> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.502> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Media and Brain 1" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Eidenberger_Horst> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.905> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Cultural Heritage Informatics" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Merkl_Wolfdieter> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.943> teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Gschwandtner_Theresia> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.96> a tuvienna:Course ;
+	tuvienna:courseType "SE" ;
+	teach:courseTitle "Seminar on Media Informatics" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Aigner_Wolfgang> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.924> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Workflow Modeling and Process Management" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Dornürgen> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.989> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Visual Perception for Autonomous Navigation/Cars/Robots" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Gelautz_Margrit> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.968> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Technical design of learning environments" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Salamon_Gudrun> .
+	
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.399> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Introduction to Semantic Web" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Kiesling_Elmar> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.948> a tuvienna:Course ;
+	tuvienna:courseType "SE" ;
+	teach:courseTitle "Seminar on Medical Informatics" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Gschwandtner_Theresia> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.977> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Introduction to Information Retrieval" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Rauber_Andreas> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.416> a tuvienna:Course ;
+	tuvienna:courseType "PR" ;
+	teach:courseTitle "Informatics Lab (Freifachpraktikum)" ;
+	teach:weeklyHours "4" ;
+	teach:ects "6" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Kappel_Gertrude> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.921> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Web Science" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Neidhardt_Julia> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.458> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Audio Production" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Laudisi_Karyn> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.499> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Media and Brain 2" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Eidenberger_Horst> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.938> a tuvienna:Course ;
+	tuvienna:courseType "PR" ;
+	teach:courseTitle "Visual Computing Project" ;
+	teach:weeklyHours "6" ;
+	teach:ects "9" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Eidenberger_Horst> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.953> a tuvienna:Course ;
+	tuvienna:courseType "SE" ;
+	teach:courseTitle "Advanced Model Engineering" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Kappel_Gertrude> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.484> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Information Search on the Internet" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Merkl_Wolfdieter> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.308> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Information Visualization" ;
+	teach:weeklyHours "1" ;
+	teach:ects "1.5" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Gschwandtner_Theresia> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.472> a tuvienna:Course ;
+	tuvienna:courseType "SE" ;
+	teach:courseTitle "Leadership Competency Coaching 2" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Fischer_Gabriele> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.948> teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Aigner_Wolfgang> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.391> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Object-oriented modeling" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Huemer_Christian> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.978> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "IT Governance" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Kappel_Gertrude> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.918> teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Biffl_Stefan> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.456> a tuvienna:Course ;
+	tuvienna:courseType "PR" ;
+	teach:courseTitle "Virtual and Augmented Reality: Advanced Topics" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Mossel_Annette> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.39> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Enterprise Modeling and Business Engineering" ;
+	teach:weeklyHours "4" ;
+	teach:ects "6" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Tjoa_A_Min> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.971> a tuvienna:Course ;
+	tuvienna:courseType "SE" ;
+	teach:courseTitle "Canceled Scientific Work" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Dornürgen> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.966> a tuvienna:Course ;
+	tuvienna:courseType "PR" ;
+	teach:courseTitle "From Design to Software 1" ;
+	teach:weeklyHours "4" ;
+	teach:ects "6" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Aigner_Wolfgang> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.41> a tuvienna:Course ;
+	tuvienna:courseType "VO" ;
+	teach:courseTitle "Software Engineering and Project Management" ;
+	teach:weeklyHours "2" ;
+	teach:ects "3" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Biffl_Stefan> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.96> teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Rauber_Andreas> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/courses/188.923> a tuvienna:Course ;
+	tuvienna:courseType "VU" ;
+	teach:courseTitle "Model Engineering" ;
+	teach:weeklyHours "4" ;
+	teach:ects "6" ;
+	teach:teacher <http://ifs.tuwien.ac.at/tulid/group03/staff/Kappel_Gertrude> .
+
+<http://ifs.tuwien.ac.at/tulid/group03/rooms/CF0229> a tuvienna:Room ;
+	tuvienna:roomName "EI 5 Hochenegg HS" ;
+	tuvienna:roomCapacity "114" ;
+	tuvienna:roomAddress "Gußhausstr. 25-29, 2. Stock" ;
+	tuvienna:roomNumber "CF0229" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/rooms/CF0235> a tuvienna:Room ;
+	tuvienna:roomName "EI 2 Pichelmayer HS" ;
+	tuvienna:roomCapacity "123" ;
+	tuvienna:roomAddress "Gußhausstr. 25-29, 2. Stock" ;
+	tuvienna:roomNumber "CF0235" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/rooms/CF0213> a tuvienna:Room ;
+	tuvienna:roomName "EI 3A Hörsaal" ;
+	tuvienna:roomCapacity "59" ;
+	tuvienna:roomAddress "Gußhausstr. 25-29, 2. Stock" ;
+	tuvienna:roomNumber "CF0213" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/rooms/CF0453> a tuvienna:Room ;
+	tuvienna:roomName "EI 6 Eckert HS" ;
+	tuvienna:roomCapacity "32" ;
+	tuvienna:roomAddress "Gußhausstr. 25-29, Stiege 10, 6. Stock" ;
+	tuvienna:roomNumber "CF0453" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/rooms/DC02H03> a tuvienna:Room ;
+	tuvienna:roomName "FH Hörsaal 1" ;
+	tuvienna:roomCapacity "383" ;
+	tuvienna:roomAddress "Wiedner Hauptstr. 8, Turm C, roter Bereich, 1. u. 2. OG" ;
+	tuvienna:roomNumber "DC02H03" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/rooms/BA02A05> a tuvienna:Room ;
+	tuvienna:roomName "GM 3 Vortmann Hörsaal" ;
+	tuvienna:roomCapacity "110" ;
+	tuvienna:roomAddress "Getreidemarkt 9, Bauteil BA Hochhaus, 2.OG" ;
+	tuvienna:roomNumber "BA02A05" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/rooms/CF0245> a tuvienna:Room ;
+	tuvienna:roomName "EI 4 Reithoffer HS" ;
+	tuvienna:roomCapacity "90" ;
+	tuvienna:roomAddress "Gußhausstr. 25-29, 2. Stock" ;
+	tuvienna:roomNumber "CF0245" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/rooms/DB02O13> a tuvienna:Room ;
+	tuvienna:roomName "FH Hörsaal 3" ;
+	tuvienna:roomCapacity "87" ;
+	tuvienna:roomAddress "Wiedner Hauptstr. 8, Turm B, gelber Bereich, 2. OG" ;
+	tuvienna:roomNumber "DB02O13" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/rooms/DB02O05> a tuvienna:Room ;
+	tuvienna:roomName "FH Hörsaal 4" ;
+	tuvienna:roomCapacity "54" ;
+	tuvienna:roomAddress "Wiedner Hauptstr. 8, Turm B, gelber Bereich, 2. OG" ;
+	tuvienna:roomNumber "DB02O05" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/rooms/CDEG08> a tuvienna:Room ;
+	tuvienna:roomName "EI 8 Pätzl HS" ;
+	tuvienna:roomCapacity "139" ;
+	tuvienna:roomAddress "Gußhausstr. 25-29, Stiege 1, Erdgeschoss" ;
+	tuvienna:roomNumber "CDEG08" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/rooms/EAZE04> a tuvienna:Room ;
+	tuvienna:roomName "Besprechungsraum Galerie" ;
+	tuvienna:roomCapacity "14" ;
+	tuvienna:roomAddress "Argentinierstr. 8, Argentinierstrasse 8, 1. Stock" ;
+	tuvienna:roomNumber "EAZE04" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/rooms/CD0304> a tuvienna:Room ;
+	tuvienna:roomName "EI 11 Geodäsie HS" ;
+	tuvienna:roomCapacity "94" ;
+	tuvienna:roomAddress "Gußhausstr. 25-29, Stiege 1, 3. Stock" ;
+	tuvienna:roomNumber "CD0304" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/rooms/DA02G15> a tuvienna:Room ;
+	tuvienna:roomName "FH Hörsaal 5" ;
+	tuvienna:roomCapacity "198" ;
+	tuvienna:roomAddress "Wiedner Hauptstr. 8, Turm A, grüner Bereich, 2. OG" ;
+	tuvienna:roomNumber "DA02G15" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/rooms/DB02O23> a tuvienna:Room ;
+	tuvienna:roomName "FH Hörsaal 2" ;
+	tuvienna:roomCapacity "53" ;
+	tuvienna:roomAddress "Wiedner Hauptstr. 8, Turm B, gelber Bereich, 2. OG" ;
+	tuvienna:roomNumber "DB02O23" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/rooms/EAEG05A> a tuvienna:Room ;
+	tuvienna:roomName "Besprechungsraum Kuppel" ;
+	tuvienna:roomCapacity "8" ;
+	tuvienna:roomAddress "Argentinierstr. 8, Argentienerstraße 8, EG" ;
+	tuvienna:roomNumber "EAEG05A" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/rooms/DB02H04> a tuvienna:Room ;
+	tuvienna:roomName "FH Hörsaal 7" ;
+	tuvienna:roomCapacity "70" ;
+	tuvienna:roomAddress "Wiedner Hauptstr. 8, Turm B, gelber Bereich, 2. OG" ;
+	tuvienna:roomNumber "DB02H04" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/rooms/CF0205> a tuvienna:Room ;
+	tuvienna:roomName "EI 3 Sahulka HS" ;
+	tuvienna:roomCapacity "184" ;
+	tuvienna:roomAddress "Gußhausstr. 25-29, 2. Stock" ;
+	tuvienna:roomNumber "CF0205" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/rooms/ZA0115> a tuvienna:Room ;
+	tuvienna:roomName "Atominstitut Bibliothek" ;
+	tuvienna:roomCapacity "25" ;
+	tuvienna:roomAddress "Stadionallee 2, 1. Stock, links" ;
+	tuvienna:roomNumber "ZA0115" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/rooms/CDEG13> a tuvienna:Room ;
+	tuvienna:roomName "EI 7 Hörsaal" ;
+	tuvienna:roomCapacity "434" ;
+	tuvienna:roomAddress "Gußhausstr. 25-29, Stiege 1, Erdgeschoss" ;
+	tuvienna:roomNumber "CDEG13" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/rooms/OVEGE01> a tuvienna:Room ;
+	tuvienna:roomName "Ausstellungshalle" ;
+	tuvienna:roomCapacity "200" ;
+	tuvienna:roomAddress "Franz Grill Str . / Lilienthalg.," ;
+	tuvienna:roomNumber "OVEGE01" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/rooms/BAU178A> a tuvienna:Room ;
+	tuvienna:roomName "GM 1 Audi. Max." ;
+	tuvienna:roomCapacity "500" ;
+	tuvienna:roomAddress "Getreidemarkt 9, Bauteil BA Hochhaus, EG" ;
+	tuvienna:roomNumber "BAU178A" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/rooms/CAEG31> a tuvienna:Room ;
+	tuvienna:roomName "EI 10 Fritz Paschke HS" ;
+	tuvienna:roomCapacity "151" ;
+	tuvienna:roomAddress "Gußhausstr. 25-29, Stiege 1, Erdgeschoss" ;
+	tuvienna:roomNumber "CAEG31" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/rooms/CF0242> a tuvienna:Room ;
+	tuvienna:roomName "EI 1 Petritsch HS" ;
+	tuvienna:roomCapacity "63" ;
+	tuvienna:roomAddress "Gußhausstr. 25-29, 2. Stock" ;
+	tuvienna:roomNumber "CF0242" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/rooms/AH0105> a tuvienna:Room ;
+	tuvienna:roomName "Aufbaulabor" ;
+	tuvienna:roomCapacity "120" ;
+	tuvienna:roomAddress "Karlsplatz 13, Hauptgebäude, Stiege 7, 1.Stock" ;
+	tuvienna:roomNumber "AH0105" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/rooms/DB02H12> a tuvienna:Room ;
+	tuvienna:roomName "FH 8 Nöbauer HS" ;
+	tuvienna:roomCapacity "203" ;
+	tuvienna:roomAddress "Wiedner Hauptstr. 8, Turm B, gelber Bereich, 2. OG" ;
+	tuvienna:roomNumber "DB02H12" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/rooms/DB01E09> a tuvienna:Room ;
+	tuvienna:roomName "EDV Praktikum Physik" ;
+	tuvienna:roomCapacity "32" ;
+	tuvienna:roomAddress "Wiedner Hauptstr. 8, Turm A, grüner Bereich, 1. OG" ;
+	tuvienna:roomNumber "DB01E09" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/rooms/CAEG17> a tuvienna:Room ;
+	tuvienna:roomName "EI 9 Hlawka HS" ;
+	tuvienna:roomCapacity "181" ;
+	tuvienna:roomAddress "Gußhausstr. 25-29, Stiege 1, Erdgeschoss" ;
+	tuvienna:roomNumber "CAEG17" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/rooms/DA02K01> a tuvienna:Room ;
+	tuvienna:roomName "FH Hörsaal 6" ;
+	tuvienna:roomCapacity "198" ;
+	tuvienna:roomAddress "Wiedner Hauptstr. 8, Turm A, grüner Bereich, 2. OG" ;
+	tuvienna:roomNumber "DA02K01" .
+
+<http://ifs.tuwien.ac.at/tulid/group03/rooms/BD01B33> a tuvienna:Room ;
+	tuvienna:roomName "GM 2 Radinger Hörsaal" ;
+	tuvienna:roomCapacity "240" ;
+	tuvienna:roomAddress "Getreidemarkt 9, Bauteil BD Hoftrakt, 1.OG" ;
+	tuvienna:roomNumber "BD01B33" .
